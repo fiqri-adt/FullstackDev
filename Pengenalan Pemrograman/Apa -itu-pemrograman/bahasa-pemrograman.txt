@@ -1,0 +1,62 @@
+Bahasa pemrograman adalah sekumpulan perintah, instruksi dan penggunaan sintaks lainnya untuk membuat sebuah program.
+
+Bahasa pemrograman menjadi elemen penting yang harus diketahui, sebab bahasa pemrograman menjadi perantara antara programmer untuk berkomunikasi dengan komputer.
+
+Bahasa pemrograman itu sendiri digolongkan menjadi beberapa bagian, antara lain machine language atau bahasa mesin, assembly language, dan high-level language atau bahasa tingkat tinggi.
+
+Machine Language
+
+Bahasa mesin adalah bahasa yang dapat dipahami oleh komputer secara langsung, direpresentasikan dalam bentuk kode biner atau 0 dan 1.
+
+Assembly language
+
+Assembly language atau bahasa assembly adalah bahasa pemrograman tingkat rendah (low-level language) yang dapat digunakan oleh programmer untuk menuliskan instruksi pada komputer.
+
+High-level language
+
+High-level language atau bahasa tingkat tinggi adalah bahasa pemrograman yang lebih dekat ke bahasa manusia dibanding bahasa pemrograman tingkat rendah, sehingga lebih mudah dipelajari, ditulis dan dibaca ulang.
+
+Baik high-level language maupun low-level language perlu dikompilasi terlebih dahulu ke dalam bahasa mesin sehingga dapat dipahami oleh komputer.
+
+High-level language memungkinkan programmer untuk menulis kode secara lebih alami dengan menggunakan kata dan simbol yang logis. Misalnya, untuk kata seperti function, while, if, dan lain sebagainya yang banyak digunakan dalam bahasa pemrograman.
+
+================================//=========================================
+
+Referensi bahasa pemrograman
+Python
+
+Bila kita menimbang dari sudut pandang kemudahan dalam penulisan sintaks, Kamu dapat memilih bahasa pemrograman Python. Selain karena Python juga dapat digunakan untuk membuat beragam aplikasi diantaranya web, desktop, game, mobile Android, dan untuk kebutuhan komputasi berat seperti analisis data dan machine learning. Python juga dapat digunakan untuk memprogram hardware atau mikrokontroller.
+
+JavaScript
+
+Bila kita menimbang dari sudut pandang tren penggunaan, maka yang paling marak digunakan sekarang adalah JavaScript. Dahulu JavaScript hanya tersedia sebagai bahasa pemrograman di sisi client (hanya berjalan di browser). Namun sekarang JavaScript sudah berevolusi dan hadir di berbagai platform. Kamu dapat membuat aplikasi web untuk sisi klien dan server sekaligus, aplikasi desktop, game, dan juga mobile.
+
+PHP
+
+Bila kita menimbang kemudahan infrastruktur, maka PHP masih menjuarai lahan ini. PHP dipercaya masih menjadi bahasa pemrograman yang paling banyak digunakan di dunia. PHP didesain khusus untuk membuat aplikasi web. Bila Kamu menggunakan PHP, Kamu tidak akan kesulitan untuk mendapatkan hosting dengan biaya yang sangat terjangkau.
+
+Java
+
+Bila Kamu menyasar pasar enterprise, Java masih cenderung dominan. Java dikenal sangat kuat untuk membuat aplikasi skala besar seperti ERP dan sistem informasi dan umumnya digunakan di perusahaan-perusahaan besar. Selain itu Java juga menjadi bahasa pemrograman utama untuk membangun aplikasi mobile Android.
+
+C
+
+Bila kita menimbang konseptual pemrograman, maka C adalah pilihan bijak. Semua konsep pemrograman dari yang paling dasar akan Kamu temui di bahasa C. C merupakan bahasa tingkat tinggi yang paling cepat dan paling dekat ke bahasa mesin. Dari sisi optimasi produk akhir, aplikasi yang dikembangkan langsung dari bahasa C akan sangat efisien. Kampus-kampus IT umumnya menggunakan C untuk mengenalkan pemrograman. Hanya saja untuk mencapai produk akhir, C tidak lebih mudah dibanding bahasa yang disebutkan sebelum ini.
+
+Kesimpulannya, untuk pilihan paling mudah tanpa banyak pertimbangan, kami sarankan untuk mulai belajar dari bahasa pemrograman JavaScript atau Python.
+
+=====================//========================
+
+Programmer adalah orang yang membuat software komputer.
+
+Istilah programmer bisa merujuk ke spesialis di satu bidang pemrograman komputer atau secara general yang menulis kode untuk berbagai jenis perangkat lunak.
+
+Adapun programmer dapat digolongkan menjadi beberapa jenis:
+
+- Web Programmer
+- Mobile Programmer
+- Desktop Programmer
+- Hardware Programmer
+- Game Programmer
+
+Lebih jauh tentang detail masing-masing jenis akan Kamu temukan di bagian kedua kelas ini.

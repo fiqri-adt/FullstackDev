@@ -1,0 +1,49 @@
+Berikut ini beberapa istilah yang umum digunakan di dunia pemrograman :
+
+1. Server
+
+Perangkat yang melayani permintaan data atau kebutuhan aplikasi di sisi klien.
+
+2. Browser
+
+Perangkat lunak yang berfungsi untuk menerima dan menyajikan sumber informasi di Internet
+
+3. Back-end Developer
+
+Seorang programmer yang bertugas untuk mengurusi sisi lain dari sebuah website yang tidak tampak, meliputi server, aplikasi, database, dll. Kode yang dituliskan oleh back-end developer inilah yang menjembatani informasi dari database ke browser.
+
+4. Front-end Developer
+
+Seorang programmer yang bertugas membuat tampilan yang meliputi layout, feedback, dll dari sebuah website, sehingga pengguna dapat melihat dan berinteraksi dengan website tersebut secara langsung.
+
+5. Fullstack Developer
+
+Seorang programmer yang mampu bekerja sebagai Front-end dan Back-end sekaligus.
+
+6. Debug
+
+Proses mencari, menemukan dan mengatasi masalah yang terdapat dari sebuah program yang dapat mengganggu kelancaran penggunaan aplikasi tersebut dari berbagai sisi.
+
+7. Bug
+
+Sebuah error atau kesalahan yang terdapat dalam sebuah program aplikasi sehingga mengganggu kelancaran penggunaan aplikasi.
+
+8. Syntax
+
+Bisa diartikan sebagai tata bahasanya dalam sebuah bahasa pemrograman.
+
+9. Method/Function
+
+Sebuah kode blok yang dapat digunakan kembali dalam proses tertentu sesuai kebutuhan.
+
+10. API (Aplication Programming Interface)
+
+Antarmuka aplikasi yang memungkinkan dua atau lebih program aplikasi untuk saling berkomunikasi satu sama lain.
+
+Sebenarnya banyak sekali istilah di dunia pemrograman. Yang perlu Kamu lakukan bila menemukan istilah baru yang belum Kamu ketahui adalah dengan mencari definisinya di kamus istilah atau mesin pencari. Semakin lama Kamu bergelut dengan pemrograman akan semakin akrab dengan istilah-istilah lainnya.
+
+==============================//====================================
+
+Beberapa bahasa pemrograman terkenal yang berbasis interpreted diantaranya adalah J, Julia, JavaScript, Lua, MATLAB, Perl, PHP, Python, R, Ruby, VBScript, dan Wolfram Language.
+
+Beberapa bahasa pemrograman terkenal yang berbasis compiled diantaranya adalah ActionScript, C, C++, C#, COBOL, JavaScript, Delphi, Erlang, Fortran, Java, Objective-C, Pascal, Scala, Visual Basic, Visual FoxPro.

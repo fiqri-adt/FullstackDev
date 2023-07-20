@@ -1,0 +1,76 @@
+Pengertian Pemrograman
+Pemrograman adalah sebuah proses yang mencakup kegiatan seperti analisis, algoritma, yang diterjemahkan ke dalam bahasa pemrograman sehingga dapat dijalankan oleh komputer.
+
+Atau secara sederhana, pemrograman adalah proses kreatif yang menginstruksikan komputer bagaimana menyelesaikan suatu tugas.
+
+Meskipun saat ini telah banyak bahasa pemrograman yang telah tersedia, namun hal penting yang harus dimiliki adalah kemampuan menganalisa dan menemukan solusi karena tanpa algoritma maka tidak ada program.
+
+Pemrograman merupakan cara kita membuat representasi untuk solusi yang kita miliki. Oleh karena itu, representasi dan proses pembuatannya menjadi bagian yang mendasar.
+
+Disisi lain algoritma menggambarkan masalah yang dimiliki dengan serangkaian proses untuk mencapai solusi yang diinginkan.
+
+Perhatikan skema berikut:
+
+Skema di atas memberikan kita gambaran bahwa dengan pemrograman sebuah masalah yang kita jumpai dapat dikonversi ke dalam dunia teknologi sehingga menjadi sebuah solusi.
+
+Membuat program
+Membuat program adalah memberikan instruksi untuk memanipulasi berbagai jenis objek, misalnya angka, kata, gambar, suara, dll.
+
+Membuat program komputer serupa dengan membuat musik, merancang rumah atau menciptakan hal lain. Sehingga sebagian pendapat mengatakan bahwa pemrograman adalah seni, bukan rekayasa.
+
+Pemrograman berdasarkan sudut pandang
+Ketika ditanya apa itu pemrograman? mari kita jabarkan dari berbagai sudut pandang.
+
+- Pemrograman adalah ilmu pengetahuan
+
+Karena menggunakan algoritma yang digambarkan dengan matematika dan sains.
+
+- Pemrograman adalah skill
+
+Karena membutuhkan keterampilan dan perancangan.
+
+- Pemrograman adalah rekayasa
+
+Karena membutuhkan perpaduan antara ukuran program, kecepatan, waktu (termasuk development dan debugging).
+
+- Pemrograman adalah seni
+
+Karena melibatkan kreatifitas dan imajinasi.
+
+=========//===================================================
+
+Keuntungan belajar pemrograman
+Adapun keuntungan yang akan kita dapatkan ketika mempelajari pemrograman antara lain :
+
+1. Berpikir dengan cara yang berbeda
+
+Ketika belajar pemrograman, Kamu belajar bagaimana memecah masalah menjadi bagian-bagian kecil agar lebih mudah diselesaikan.
+
+Potongan-potongan kecil tersebut kemudian dibuatkan programnya dengan menggunakan bahasa yang dipahami komputer, sehingga komputer dapat menyelesaikan solusi dengan lebih cepat dan berulang.
+
+2. Berdampak positif pada karir
+
+Salah satu pencapaian dalam hidup yang harus dicapai adalah pertumbuhan karir yang terus menanjak.
+
+Belajar pemrograman membantu Kamu untuk mencapainya melalui banyak jalan dan peluang.
+
+3. Menghasilkan lebih banyak uang
+
+Kesuksesan finansial merupakan tujuan penting bagi banyak orang, dan belajar pemrograman bisa memiliki dampak yang signifikan dengan munculnya banyak peluang yang sebelumnya tidak terlihat.
+
+4. Membawa idemu ke kehidupan nyata
+
+Terkadang kita memiliki gagasan tentang perbaikan hidup dari aspek manapun, misalnya kehidupan pribadi, lingkungan kerja atau dari sudut pandang global. Akan tetapi untuk mewujudkan hal ini, kita kekurangan dukungan teknologi untuk mentransformasikan gagasan tersebut secara akurat menjadi proyek nyata yang dapat dilihat. Maka dengan belajar pemrograman Kamu dapat mengaplikasikan sendiri gagasan Kamu ke dalam bentuk aplikasi.
+
+5. Menjadi lebih percaya diri
+
+Salah satu bentuk perasaan terbaik yang diharapkan adalah dengan mengetahui bahwa Kamu telah mencapai sesuatu yang hebat atau memiliki kemampuan untuk menyelesaikan sesuatu yang sangat kompleks. Dengan belajar pemrograman memberikan Kamu peluang untuk mendapatkan hal tersebut.
+
+
+Dengan belajar pemrograman, Kamu akan belajar tentang konsep yang sangat berharga, terlepas apakah Kamu akan terus berkarir di bidang ini atau tidak.
+
+Satu hal yang akan Kamu temukan nanti adalah fakta bahwa komputer itu sangat bodoh, tapi taat. Komputer tidaklah pintar, ia hanya dapat mengerjakan sesuatu yang berulang dengan sangat cepat. Ia akan melakukan apapun yang Kamu instruksikan sesuai keinginan Kamu.
+
+Tapi hal yang paling penting untuk Kamu tanamkan dalam diri saat belajar pemrograman adalah bahwa belajar pemrograman itu menyenangkan.
+
+Dengan sugesti positif, Kamu akan dapat menikmati proses belajar dan hasilnya pun akan lebih memuaskan.

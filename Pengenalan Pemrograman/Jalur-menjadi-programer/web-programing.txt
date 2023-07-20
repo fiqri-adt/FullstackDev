@@ -1,0 +1,12 @@
+Web programming adalah serangkaian proses yang dilakukan untuk membuat website baik dari skala kecil seperti halaman yang sifatnya statis berupa plain text, hingga ke skala yang sangat kompleks bersifat dinamis yang telah berinteraksi dengan database atau berkomunikasi antar aplikasi. Beberapa kompetensi yang bersanding dengan web programming diantaranya: web design, database administrator, web server, konfigurasi keamanan server, dan lain-lain.
+
+Beberapa hal mendasar yang perlu kita ketahui untuk menjadi seorang Web Programmer diantaranya:
+
+- HTML, digunakan untuk membuat struktur atau kerangka dari halaman web. Kamu juga akan perlu untuk mempelajari CSS yang berfungsi untuk menata tampilan halaman website.
+- Bahasa pemrograman web, digunakan untuk memproses sejumlah operasi yang diperlukan pada aplikasi web seperti menjalankan fungsi logika, berinteraksi dengan database, menampilkan antarmuka yang sesuai dan sebagainya. Beberapa bahasa pemrograman web diantaranya Javascript, PHP, Ruby, Python, Perl dan ASP.NET.
+- Web Browser, adalah perangkat lunak yang berfungsi untuk menyajikan halaman website yang kita inginkan. Beberapa web browser populer diantaranya: Mozilla Firefox, Google Chrome, Internet Explorer, Microsoft Edge, Opera, Safari dan sebagainya.
+- Code Editor, adalah perangkat lunak yang digunakan untuk menuliskan kode program
+- Web Server, adalah perangkat lunak yang digunakan untuk menjalankan aplikasi web
+- Domain, baik di lokal maupun di jaringan internet kita butuhkan sebagai alamat identitas aplikasi web kita. Jika dalam mode offline kita mengenal localhost / 127.0.0.1, maka di online kita bisa memiliki nama domain secara custom dengan sistem penyewaan domain tersebut seperti: codepolitan.com, facebook.com atau bisa juga namakamu.com.
+
+Web programming menjadi daya tarik banyak orang untuk dipelajari karena potensi pekerjaan sebagai web prorammer masih sangat luas. Seiring dengan terus berkembangnya teknologi internet berkembang dan meningkat pula kebutuhan akan pengembangan aplikasi web. Bila dahulu orang mengenal web programming sebatas untuk membuat website saja, kini pemanfaatan aplikasi berbasis website menjadi lebih luas lagi, seperti pengembangan sistem informasi, media sosial, ecommerce dan transaksi keuangan. Kita bahkan dapat membuat aplikasi desktop dan mobile menggunakan teknologi web. Belajar pemrograman web menjadi pilihan yang tepat dan prospektif

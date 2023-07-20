@@ -1,0 +1,21 @@
+Perkembangan dunia teknologi yang sangat cepat menuntut seorang programmer untuk mampu belajar cepat juga. Bertumbuh atau mati, meski programmer tidak dapat dipisahkan dengan teknologi, akan tapi jika seorang programmer tidak mampu mengikuti perkembangan teknologi akan tergerus oleh teknologi itu sendiri. Sebagai programmer Kamu harus menyukai proses belajar.
+
+Berikut beberapa tips yang dapat kami bagikan agar dapat menjadi seorang programmer yang hebat.
+
+- Tanamkan dalam diri Kamu untuk lebih banyak belajar. Langkah pertama dalam mempelajari sesuatu adalah dengan menyadari bahwa Kamu tidak mengetahuinya. Kebanyakan orang terlalu cepat berpuas diri dengan hasil pembelajaran yang mereka lakukan, dan mengklaim diri lebih tahu daripada yang lain. Hal ini akan menimbulkan sekat untuk belajar hal-hal baru yang dibagikan orang lain baik secara langsung maupun tidak.
+
+- Berhentilah untuk menganggap diri paling benar. Untuk menjadi hebat Kamu harus belajar dari pengalaman. Pengalaman bisa mengajari kita untuk tidak mengulagi perilaku buruk dan kebiasaan buruk. Maka setiap proses yang kita lalui harus diikuti dengan pertanyaan, "Bagaimana saya bisa lebih baik dari sebelumnya ?". Programmer pemula biasaya melihat kode program mereka untuk mengagumi kehebatannya. Berpuas diri dengan hasil yang telah dicapai menjadikannya luput untuk mencari kesalahan dari program yang telah dibuat, sehingga merasa diri bahwa programnya telah sempurna. Padahal programmer yang benar-benar hebat, secara aktif mencari dimana letak kesalahannya karena mereka tahu bahwa pada akhirnya pengguna akan menemukan kekurangan yang mereka lewatkan.
+
+- "Program Kamu bekerja", bukan berarti Kamu harus berhenti. Akan tetapi disitulah Kamu baru memulai. Langkah pertama yang harus Kamu lakukan adalah dengan selalu menanamkan pada diri sendiri untuk selalu menulis program yang berkualitas yang memenuhi spesifikasi.
+
+- Rata-rata programmer berhenti saat programnya telah berjalan dan beralih ke hal lainnya. Programmer yang berpuas diri hanya karena programnya "bisa berjalan", seperti mengambil snapshot dan mengharapkannya menjadi sebuah karya seni.
+
+- Programmer hebat tahu, bahwa programnya sudah berjalan dengan baik, akan tetapi dia juga sadar untuk membuatnya jadi lebih baik lagi. Aspek "lebih baik" dapat ditinjau dari berbagai hal, seperti menjadikannya lebih cepat, lebih mudah dibaca, memiliki dokumentasi yang rapi, dapat digunakan kembali, mudah dikembangkan, dan lain-lain.
+
+- Baca kode anda, dan baca lebih banyak kode orang lain, Hal yang penting untuk Kamu lakukan ketika menuliskan kode program adalah dengan banyak membacanya kembali dan sering membaca kode program milik orang lain. Sebab ketika Kamu membaca kode orang lain, Kamu akan melihat bagaimana orang lain memecahkan masalah pemrograman. Sehingga dapat Kamu jadikan referensi pembelajaran sekaligus tantangan untuk menjadi lebih baik.
+
+- Jadikan sebuah kesenangan dalam menulis kode program, bukan hanya sebagai sebuah kewajiban yang harus ditunaikan.
+
+- Belajar teknik, bukan tools.
+
+Bahasa pemrograman, tools dan metodologi datang silih berganti sesuai perkembangan. Itulah sebabnya Kamu harus belajar dasar-dasar pemrograman, sebab dasar pemrograman cenderung tidak berubah. Jika Kamu merasa yakin bahwa hanya ada satu cara yang benar untuk melakukan sesuatu, mungkin ini saatnya untuk Kamu mulai belajar hal baru.
